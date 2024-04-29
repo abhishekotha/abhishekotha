@@ -1,5 +1,23 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+19887
+Fork on GitHub
+5993
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+markdown
 <h1 align="center">Hi 👋, I'm Kotha abhishek</h1>
 <h3 align="center">A passionate AI developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekotha&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekotha" /> </p>
 
 - 🔭 I’m currently working on **Blind talk**
 
@@ -24,3 +42,28 @@
 <p><a href="https://www.buymeacoffee.com/Support me"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support me" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekotha&show_icons=true&locale=en" alt="abhishekotha" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
