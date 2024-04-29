@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kotha abhishek</h1>
+<h1 align="center">Hi <img src='https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif' alt ='hand-anime' width ='50px'>, I'm Kotha abhishek</h1>
 <h3 align="center">A passionate AI developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekotha&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekotha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishekotha&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekotha" /> </p>
+<img src='https://github.com/Vajja-Premsai/Vajja-Premsai/blob/main/thoughtworks-gif_dribbble.gif' alt ='coding animation' width ='400px' align="right">
 
 - 🔭 I’m currently working on **Blind talk**
 
